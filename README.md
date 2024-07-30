@@ -17,7 +17,9 @@
 
   --->
 
-- 🎓 To be graduated in 2023
+- Current working as Member Technical Staff in Zoho Corporation
+
+- 🎓 Graduated in 2023
 
 - 📫 How to reach me **vamsubala1@gmail.com**
 <!---
